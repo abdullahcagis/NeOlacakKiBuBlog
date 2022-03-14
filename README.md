@@ -1,2 +1,2 @@
 # NeOlacakKiBuBlog
-Sunger Developers Sınıfı Blog Projesi
+Sünger Developers Sınıfı Blog Projesi
