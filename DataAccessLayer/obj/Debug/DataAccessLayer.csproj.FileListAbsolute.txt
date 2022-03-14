@@ -1,0 +1,12 @@
+C:\Users\302-PC\Documents\GitHub\NeOlacakKiBuBlog\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\302-PC\Documents\GitHub\NeOlacakKiBuBlog\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\302-PC\Documents\GitHub\NeOlacakKiBuBlog\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\302-PC\Documents\GitHub\NeOlacakKiBuBlog\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\302-PC\Documents\GitHub\NeOlacakKiBuBlog\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\302-PC\Documents\GitHub\NeOlacakKiBuBlog\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\lenovo\OneDrive\Masaüstü\neolacak\NeOlacakKiBuBlog\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\lenovo\OneDrive\Masaüstü\neolacak\NeOlacakKiBuBlog\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\lenovo\OneDrive\Masaüstü\neolacak\NeOlacakKiBuBlog\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\lenovo\OneDrive\Masaüstü\neolacak\NeOlacakKiBuBlog\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\OneDrive\Masaüstü\neolacak\NeOlacakKiBuBlog\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\lenovo\OneDrive\Masaüstü\neolacak\NeOlacakKiBuBlog\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
